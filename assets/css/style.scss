@@ -1,0 +1,51 @@
+--- 
+---
+@import 'jekyll-theme-hacker';
+
+/* Style the site-navigation */
+
+#site-navigation {
+  overflow: hidden;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  border-bottom: 1px dashed $conifer; //header;
+  padding-left: 20%;  
+}
+
+/* Handle the dashed separation between head and body while scrolling */
+
+header {
+  border-bottom:none;
+  padding-bottom: 0px;
+}
+
+.header-title{
+  padding-left: 20%;
+}
+/* Page content */
+
+#main_content {
+  padding: 16px;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+
+#main_content.sticky {
+  padding-top: 101px;
+}
+
+/* The sticky class is added to the site-navigation with JS when it reaches its scroll position */
+
+#site-navigation.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-image: url("../images/bkg.png");
+}
+
+
+
+
+header a{
+  text-decoration: none;
+}
