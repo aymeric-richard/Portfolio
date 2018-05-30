@@ -21,7 +21,7 @@
       {% if page.url == '/skills.html' %}
       <span class="btn">Compétences</span>
       {% else %}
-      <a href="/skills" class="btn">Compétences</a>      
+      <a href={{ "/skills" | absolute_url }} class="btn">Compétences</a>      
       {% endif %}
       {% if page.url == '/realizations.html' %}
       <span class="btn">Réalisations</span>

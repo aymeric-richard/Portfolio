@@ -2,3 +2,4 @@ title: Développeur hardcore
 description: Ou simplement Aymeric
 theme: jekyll-theme-hacker
 repository: aymeric-richard/Portfolio
+baseurl: /Portfolio
