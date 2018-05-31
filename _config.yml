@@ -3,3 +3,9 @@ description: Ou simplement Aymeric
 theme: jekyll-theme-hacker
 repository: aymeric-richard/Portfolio
 baseurl: /Portfolio
+
+# Site hierarchy
+skillsLocation: /skills
+technicalSkillsLocation: /technical-skills
+humanSkillsLocation: /human-skills
+realizationsLocations: /realizations

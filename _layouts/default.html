@@ -12,7 +12,7 @@
 
   <header>
     <div class="header-title">
-      <a href="/">
+      <a href={{ "/" | absolute_url }}>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
       </a>
@@ -21,19 +21,19 @@
       {% if page.url == '/skills.html' %}
       <span class="btn">Compétences</span>
       {% else %}
-      <a href={{ "/skills" | absolute_url }} class="btn">Compétences</a>      
+      <a href={{ "skills" | relative_url }} class="btn">Compétences</a>
       {% endif %}
       {% if page.url == '/realizations.html' %}
       <span class="btn">Réalisations</span>
       {% else %}
-      <a href="/realizations" class="btn">Réalisations</a>
+      <a href={{ "realizations" | absolute_url }} class="btn">Réalisations</a>
       {% endif %}
       {% if page.url == '/aboutme.html' %}         
       <span class="btn">A propos de moi</span>
       {% else %}
-      <a href="/aboutme" class="btn">A propos de moi</a>
+      <a href={{ "/aboutme" | absolute_url }} class="btn">A propos de moi</a>
       {% endif %}
-      <a href="/documents/cv_Aymeric_Richard.pdf" target="_blank" class="btn">Télécharger un CV</a>
+      <a href={{ "/documents/cv_Aymeric_Richard.pdf" | absolute_url }} target="_blank" class="btn">Télécharger un CV</a>
       <a href="{{ site.github.repository_url }}" class="btn btn-github">
         <span class="icon"></span>Voir sur GitHub</a>
     </div>
