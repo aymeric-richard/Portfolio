@@ -1,31 +1,34 @@
 ---
 layout: default
 ---
+# A propos de moi
 
-# Loisirs
+## Loisirs
 
-## Jeu de rôle
+### Jeu de rôle
 
-### Maître du jeu
+#### Maître du jeu
+
 10 ans de pratique.
 
-### Œil noir
+#### Œil noir
+
 15 ans de jeu
 
-# Technologies
+## Technologies
 
-## Hardware
+### Hardware
 
-### Eyefinity
+#### Eyefinity
 
-### Overclock
+#### Overclock
 
-# Sports
+## Sports
 
-## Capoeira
+### Capoeira
 
-## AMHE Viking
+### AMHE Viking
 
-## Jonglerie
+### Jonglerie
 
 <div style="display: none">bite</div>

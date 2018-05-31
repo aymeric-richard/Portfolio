@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Epic Spirit
 
 ### Contexte
@@ -28,4 +27,4 @@ Créer toutes les ressources du jeu : Nos études ont toujours été axées sur 
 
 ### Technologies
 
-[Unity 3D]({{ site.skillsLocation | append: site.technicalSkillsLocation }}/unity3d)
+[Unity 3D]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/unity3d)

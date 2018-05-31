@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
+# Réalisations
 
-[Epic Spirit](epicspirit)
+[Epic Spirit]({{ site.realizationsLocation | absolute_url }}/epicspirit)

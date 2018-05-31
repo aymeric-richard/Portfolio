@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+# Métodes agiles
+
+## A qui ?
 
 ## Pair Programming
 

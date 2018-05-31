@@ -1,5 +1,6 @@
 ---
 layout: default
 ---
+# Compétences
 
-[Unity 3D](technical-skills/unity3d)
+[Unity 3D]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/unity3d)
