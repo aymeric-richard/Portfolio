@@ -8,7 +8,7 @@ layout: default
 ### Jeu de rôle
 
 J'ai découvert le jeu de rôle sur table à l'âge de 10 ans avec **l'Œil Noir**, un jeu de rôle et d'aventure dans un monde médiéval fantastique, qui s'apparente à l'univers du Seigneur des Anneaux ou de Donjon et Dragons.
-<Description du JDR>
+<!-- <Description du JDR> -->
 Aujourd'hui encore je fais régulièrement des parties de jeu conséquentes, parfois tout un week-end, avec mon entourage.
 
 #### Maître du jeu
