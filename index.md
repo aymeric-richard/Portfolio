@@ -7,3 +7,8 @@ Mon intérêt pour l'informatique étant vraiment vaste, j'ai des expériences s
 
 ## Aperçu des compétences
 
+### Compétences techniques
+
+### Compétences transverses
+
+### Langues
