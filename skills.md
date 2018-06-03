@@ -16,6 +16,6 @@ layout: default
 
 ## Compétences Transverses
 
-[Méthodes Agiles]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/unity3d)
-[Créativité]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/unity3d)
-[Humour]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/unity3d)
+[Méthodes Agiles]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/agility)
+[Créativité]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/creativity)
+[Humour]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/humor)
