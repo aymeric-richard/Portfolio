@@ -49,3 +49,22 @@ header {
 header a{
   text-decoration: none;
 }
+
+
+/* Float illustrations */
+
+h1, h2, h3, h4, h5, h6{
+  clear: both;
+}
+
+img {
+  --max-illustration-border: 150px;
+}
+
+img.illustration {
+  margin-right: 15px;
+  margin-bottom: 5px;
+  float: left;
+  max-width: var(--max-illustration-border);
+  max-height: var(--max-illustration-border);
+}
