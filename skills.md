@@ -19,3 +19,4 @@ layout: default
 [Méthodes Agiles]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/agility)
 [Créativité]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/creativity)
 [Humour]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/humor)
+[Multipotentialité]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/multipotentialite)
