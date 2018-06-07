@@ -3,15 +3,15 @@ layout: default
 ---
 # Epic Spirit
 
-### Contexte
+## Contexte
 
 Le jeu vidéo sur smartphone n'a jamais été aussi bien portant, il s'agit d'un secteur en pleine expansion et extrêmement dynamique. L'équipe Epic Spirit souhaite offrir sa pierre à l'édifice en élaborant un "Action Role Playing Game" (A-RPG), genre particulièrement apprécié chez la communauté des joueurs.
 
-### Mission
+## Mission
 
 Notre mission est de créer un jeu vidéo et de le rendre accessible au grand public. Ce jeu est un A-RPG, le joueur incarne Spi, notre héros, et doit sauver le monde infesté de créatures malfaisantes : les Nelys. Ce jeu est disponible pour les téléphones Android. Epic Spirit est un jeu où le joueur évolue dans un univers 3D. Spi a la capacité de se déplacer et d'attaquer les méchants Nelys grâce à son arme et ses capacités.
 
-### Objectif
+## Objectif
 
 Nos objectifs ne se limitent pas uniquement à l'élaboration d'une solution logicielle. Nous souhaitions découvrir toute la chaîne de production d'un produit. Cela passe par le développement mais d'autres compétences seront explorées pour mener à bien ce projet. Voici la liste des actions que nous voulions mettre à exécution durant le projet Epic Spirit :
 
@@ -25,6 +25,8 @@ Créer un site internet Donner une visibilité à un projet passe par la créati
 
 Créer toutes les ressources du jeu : Nos études ont toujours été axées sur la création de code. Cependant développer des compétences transverses nous semble également important. C'est pour cette raison que nous comptons faire nous mêmes les modèles 3D, les textures ainsi que toutes les musiques et bruitages.
 
-### Technologies
+## Implémentation
+
+## Compétences
 
 [Unity 3D]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/unity3d)

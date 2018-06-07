@@ -43,7 +43,7 @@ Pourtant le plus intéressant reste ce que je fais avec mon propre matériel...
 
 <img src="{{ site.imagesLocation | absolute_url}}/illustration_eyefinity.png" class="illustration"/>
 
-Les images parlent d'elles même ici, avec 3 écrans on n'en fait plus qu'un seul. C'est la configuration que j'ai choisis pour simuler l'immersion dans les jeux vidéos en 3 dimensions.
+[Les images parlent d'elles même ici]({{ site.imagesLocation | absolute_url}}/photo_eyefinity.jpeg), avec 3 écrans on n'en fait plus qu'un seul. C'est la configuration que j'ai choisis pour simuler l'immersion dans les jeux vidéos en 3 dimensions.
 
 #### Overclock
 

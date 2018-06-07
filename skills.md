@@ -7,7 +7,7 @@ layout: default
 
 [Unity 3D]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/unity3d)
 [ASP.NET MVC]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/aspnetmvc)
-[Continuous Integration]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/ci)
+[Intégration Continue]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/ci)
 [Git]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/git)
 [GNU / Linux]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/linux)
 
