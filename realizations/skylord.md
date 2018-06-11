@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Skylord
+# Skylord, jeu de stratégie en ligne massivement multijoueur
 
 ## Contexte
 

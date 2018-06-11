@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Création d'un gestionnaire de container pour Samba, nom de code Galaxy
+# Dispenser un cours de hardware
 
 ## Contexte
 

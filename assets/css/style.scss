@@ -57,14 +57,29 @@ h1, h2, h3, h4, h5, h6{
   clear: both;
 }
 
-img {
-  --max-illustration-border: 150px;
-}
 
-img.illustration {
+@mixin illustration($maxIllustrationBorder){
   margin-right: 15px;
   margin-bottom: 5px;
   float: left;
-  max-width: var(--max-illustration-border);
-  max-height: var(--max-illustration-border);
+  max-width: $maxIllustrationBorder;
+  max-height: $maxIllustrationBorder;
 }
+
+img.illustration {
+  @include illustration(150px);
+  }
+
+  /* Realizations */
+
+img.realization-mini{
+  @include illustration(200px);
+  border: 1px solid #b5e853;
+}
+  
+/* Global */
+
+a {
+  text-decoration: none;
+}
+
