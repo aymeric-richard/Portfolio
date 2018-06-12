@@ -6,10 +6,9 @@ layout: default
 
 ## Contexte
 
-[<img src="{{ site.imagesLocation | absolute_url}}/screenshot_cilcowding_mini.png" class="realization-mini"/>]({{ site.imagesLocation | absolute_url}}/screenshot_cilcowding.png)
+[<img src="{{ site.imagesLocation | absolute_url}}/screenshot_cilcowding_mini.png" class="realization-mini border"/>]({{ site.imagesLocation | absolute_url}}/screenshot_cilcowding.png)
 
 Dans le cadre de ma formation à IN'TECH, nous avons décidé avec mon groupe de projet de consolider notre compréhension du fonctionnement de la chaine de compilation d'un programme. C'est ainsi que nous avons créé de toute pièces CIL Cowding, un projet dont la brique principale est le développement d'un interpréteur de bytecode <abbr title="Intermediate Langage">IL</abbr>.
-
 
 ## Implémentation
 
