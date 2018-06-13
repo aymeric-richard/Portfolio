@@ -55,7 +55,7 @@ Synthétiquement, CIL'Cowding dispose des fonctionnalités suivantes :
 * Utilise des librairies externes (api)
 * Modélise la pile d'appel en temps réel
 
-### Récompense
+### Récompenses
 
 Comme vu plus haut il s'agit d'un projet d'école, nous l'avons développé dans le cadre de notre 3ème semestre. C'est un projet extrêmement technique si on se réfère aux projets de semestre équivalent. Cela nous a valu la 4ème place et le prix du jury parmi une trentaine de projets lors du [forum des projets informatiques](https://www.intechinfo.fr/retour-forum-projets-informatiques-intech/) à IN'TECH en 2014.
 

@@ -5,7 +5,7 @@ layout: default
 
 ## Contexte
 
-[<img src="{{ site.imagesLocation | absolute_url}}/es/EpicSpiritLogo.png" class="realization-mini"/>]({{ site.imagesLocation | absolute_url}}/screenshot_cilcowding.png)
+<img src="{{ site.imagesLocation | absolute_url}}/es/EpicSpiritLogo.png" class="realization-mini"/>
 
 Le jeu vidéo sur smartphone n'a jamais été aussi bien portant, il s'agit d'un secteur en pleine expansion et extrêmement dynamique. L'équipe Epic Spirit souhaite offrir sa pierre à l'édifice en élaborant un "Action Role Playing Game" (A-RPG), genre particulièrement apprécié chez la communauté des joueurs.
 
@@ -16,9 +16,15 @@ Notre mission est de créer un jeu vidéo et de le rendre accessible au grand pu
 
 ### Apprentissage et domaines multiples
 
-Pour créer concrètement le jeu nous avons, en plus de la partie développement, décidé de fabriquer nous même les ressources de toutes pièces. C'est à dire les musiques et bruitages, le game design, le scénario et les graphismes (3D et 2D) assurés par notre acolyte infographiste. La moindre brique de ce projet a été créé par notre petite équipe.
+Pour créer le jeu nous avons, en plus de la partie développement, décidé de fabriquer nous même les ressources de toutes pièces. C'est à dire les musiques et bruitages, le game design, le scénario et les graphismes (3D et 2D) assurés par notre acolyte artiste. La moindre brique de ce projet a été créé par notre petite équipe.
+
+### Travail en équipe et collaboration
+
+<img src="{{ site.imagesLocation | absolute_url}}/es/Chibi.png" class="realization-mini"/>
 
 ### Au delà du logiciel
+
+<img src="{{ site.imagesLocation | absolute_url}}/es/SpiLogo.png" class="realization-mini"/>
 
 Com, play store(200+ dl), le pain
 
@@ -37,3 +43,9 @@ Trouver des idées. Le nom est stylé nan ?
 * <a href="https://github.com/EpicSpirit/EpicSpirit" target="_blank" class="fab fa-github fa-lg"> Voir sur Github</a>
 * <a href="https://www.facebook.com/epicspiritrpg/" target="_blank" class="fab fa-facebook fa-lg"> Suivre sur Facebook</a>
 * <img src="{{ site.imagesLocation | absolute_url}}/logo_intech.png" style="float: left; margin-right: 5px;"/><a href="https://www.intechinfo.fr/jeu-video-intech-epic-spirit/" target="_blank" class="fab fa-lg"> Article dédié sur le site de IN'TECH</a>
+
+## En images
+
+[<img src="{{ site.imagesLocation | absolute_url}}/es/6.png" class="realization-mini border"/>]({{ site.imagesLocation | absolute_url}}/es/6.png)
+[<img src="{{ site.imagesLocation | absolute_url}}/es/conceptart5.jpg" class="realization-mini border"/>]({{ site.imagesLocation | absolute_url}}/es/conceptart5.jpg)
+[<img src="{{ site.imagesLocation | absolute_url}}/es/Menuplay_2.png" class="realization-mini border"/>]({{ site.imagesLocation | absolute_url}}/es/Menuplay_2.png)

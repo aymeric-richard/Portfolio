@@ -17,11 +17,12 @@ Aujourd'hui tellement de concepts ont déjà été vu et revus, l'**originalité
 
 ### Apprentissage rapide
 
-Je ne suis pas de facto le plus rapide pour apprendre des nouveaux concepts. Cela étant, j'ai c'est avec un intérêt extrêmement fort et une passion extrêmement grande que je me plait à décortiquer au maximum ce que j'ai sous la main. Je sais maintenant apprendre, je me rends compte que aucun savoir n'est inaccessible car il suffit de me documenter et je sais bien le faire à force.
+Je ne suis pas de facto le plus rapide pour apprendre des nouveaux concepts. Cela étant, c'est avec un intérêt extrêmement fort et une grande passion que je me plait à décortiquer au maximum ce que j'ai sous la main. Je sais maintenant apprendre, je me rends compte que aucun savoir n'est inaccessible car il suffit de me documenter et, à force, je sais bien le faire.
 
 ### Adaptabilité et multi-casquettes
 
-Lié à mon excellent relationnel, cette compétence fait que je suis tout indiqué pour jouer différents rôles au sein d'un même projet.
+Lié à mon excellent relationnel, cette compétence fait que je suis tout indiqué pour jouer différents rôles au sein d'un même projet. Je répond avec plaisir aux questions de mes collaborateurs et je me plait à aider ces personnes pour de nombreux problèmes techniques (ou non) en tout genre.
+Dans ce cas, cette compétence est étroitement liée à [la créativité]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/creativity).
 
 ## Niveau de maitrise et évolution
 
