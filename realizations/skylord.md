@@ -20,7 +20,7 @@ Projet visant à démontrer la faisabilité de la mise en production d'un progra
 
 ### Une technologie en construction
 
-Asp VNext et DNX sont des technologies en beta lors du développement du projet. Chaque semaine a apporté son lot de nouveautés, de régressions et de breaking changes. Bien entendu les tutoriels pour utiliser la technologie ne se bousculait pas, et les personnes compétences sur le sujet pour répondre à nos questions non plus.
+Asp VNext et DNX sont des technologies en beta lors du développement du projet. Chaque semaine a apporté son lot de nouveautés, de régressions et de breaking changes. Bien entendu les tutoriels pour utiliser la technologie ne se bousculaient pas, et les personnes compétentes sur le sujet pour répondre à nos questions non plus.
 
 ### Interaction avec Microsoft
 
@@ -32,7 +32,7 @@ CI, Agile
 
 ### Communication
 
-Nous avons mi le site en ligne pour le tester en cas réel et avoir des retours. Pour trouver des joueurs nous avons mené des actions de communications, tels que des posts de teasing sur Facebook :
+Nous avons mis le site en ligne pour le tester en cas réel et avoir des retours. Pour trouver des joueurs nous avons mené des actions de communications, tels que des posts de teasing sur Facebook :
 
 > Encore une journée comme les autres. Notre seigneur Thanur nous a demandé d’agrandir son laboratoire pour y entreposer plus de bazar magique, encore une fois ! Depuis que nous sommes arrivés sur l'île tout évolue tellement vite que nous sommes tout le temps sur un nouveau bâtiment... Au début c'était marrant, maintenant j'en ai un peu marre, j'ai plutôt envie d'aller m'amuser autour du portail d’invocation ou du champ de cristal ! Ou peut-être que ce sera bientôt à moi d’aller à la tour du mage … et voir cette nouvelle apprentie dont tout le monde parle.
 >

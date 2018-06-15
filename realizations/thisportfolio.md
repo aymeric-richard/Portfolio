@@ -10,5 +10,7 @@ Un bonus que je souhaite donner à mes lecteurs, j'ai réalisé et mis en ligne 
 
 ## Implémentation
 
+https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+
 ## Compétences
 La lecture
