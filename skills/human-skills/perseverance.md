@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# Créativité et Imagination
+# Persévérance

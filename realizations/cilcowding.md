@@ -4,13 +4,13 @@ layout: default
 
 # CIL'Cowding, interpréteur de code IL éducatif
 
-## Contexte
+## Comprendre la chaine de compilation
 
 [<img src="{{ site.imagesLocation | absolute_url}}/screenshot_cilcowding_mini.png" class="realization-mini border"/>]({{ site.imagesLocation | absolute_url}}/screenshot_cilcowding.png)
 
 Dans le cadre de ma formation à IN'TECH, nous avons décidé avec mon groupe de projet de consolider notre compréhension du fonctionnement de la chaine de compilation d'un programme. C'est ainsi que nous avons créé de toute pièces CIL Cowding, un projet dont la brique principale est le développement d'un interpréteur de bytecode <abbr title="Intermediate Langage">IL</abbr>.
 
-## Implémentation
+## Un interpréteur de langage IL
 
 Le fil conducteur est le développement d'un interpréteur de CIL (Common Intermediate Language, ie Bytecode C#). Couplé à une interface graphique, le logiciel CIL'Cowding explique le fonctionnement interne d'un programme - Pour se faire, l'utilisateur écrit en programme en CIL, qui est interprété par CIL-Cowding. Ce dernier affiche en direct un visuel de la pile d'appel.
 Ce projet a pour cible les développeurs, le but étant de faciliter l'apprentissage du fonctionnement interne d'un programme, notamment de la pile d'appel.

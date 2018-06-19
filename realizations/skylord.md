@@ -4,7 +4,7 @@ layout: default
 
 # Skylord, jeu de stratégie en ligne massivement multijoueur
 
-## Contexte
+## Une méthodologie professionnelle, de la R&D, le tout récompensé
 
 <img src="{{ site.imagesLocation | absolute_url}}/skylord/Skylord_Logo.png" class="realization-mini"/>
 
