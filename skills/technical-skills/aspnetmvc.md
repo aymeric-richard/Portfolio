@@ -4,7 +4,7 @@ layout: default
 
 # ASP.NET MVC
 
-## La référence pour le web avec C# 
+## La référence pour le web avec C\# 
 
 ASP.NET est un framework qui permet d'écrire des sites webs dynamiques avec le langage C#. Etant mon [langage de prédilection]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/csharpdotnet), c'est la solution que j'aime utiliser pour réaliser des applications web conséquentes. Grâce à l'architecture MVC intrinsèque, on a un contrôle sur l'ensemble des parties du programme, front et back.
 
