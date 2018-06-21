@@ -9,7 +9,7 @@ layout: default
 
 Il s'agit d'un secteur en pleine expansion et extrêmement dynamique. L'équipe Epic Spirit souhaite offrir sa pierre à l'édifice en élaborant un "Action Role Playing Game" (A-RPG), genre particulièrement apprécié chez la communauté des joueurs.
 
-J'ai mené ce projet avec un autre développeur (Kévin Roussel) et un graphiste (Maxime Lauret), dans le cadre de ma formation à IN'TECH.
+J'ai mené ce projet avec un autre développeur (Kévin Roussel) et un graphiste (Maxime Leclerc), dans le cadre de ma formation à IN'TECH.
 Notre mission est de créer un jeu vidéo et de le rendre accessible au grand public. Ce jeu est un A-RPG où le joueur incarne Spi, notre héros, et doit sauver le monde infesté de créatures malfaisantes : les Nelys. Il est disponible pour les smartphones Android. Epic Spirit est un jeu où le protagoniste évolue dans un univers en 3 dimensions. Spi a la capacité de se déplacer et d'attaquer les méchants Nelys grâce à son arme et ses capacités.
 
 ## Implémentation
@@ -37,7 +37,7 @@ Aujourd'hui encore, taper Epic Spirit sur Google montre l'impact de cette commun
 
 ### Récompenses
 
-1ère place au Forum des projets informatiques (PI) d'INTECH, école supérieure d'informatique du groupe ESIEA, de Juillet 2015.
+1ère place au Forum des projets informatiques (PI) de IN'TECH, école supérieure d'informatique du groupe ESIEA, de Juillet 2015.
 
 ## Compétences
 

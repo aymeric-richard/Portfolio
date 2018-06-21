@@ -9,5 +9,3 @@ layout: default
 # TFS
 
 # Vim
-
-# Java

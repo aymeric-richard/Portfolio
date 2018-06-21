@@ -43,7 +43,7 @@ Nous avons mis le site en ligne pour le tester en cas réel et avoir des retours
 ### Récompenses
 
 Grosse équipe, gestion de projet (peut être mettre ça dans démarche pro)
-1ère place au Forum des projets informatiques (PI) d'INTECH, école supérieure d'informatique du groupe ESIEA, de janvier 2016.
+1ère place au Forum des projets informatiques (PI) de IN'TECH, école supérieure d'informatique du groupe ESIEA, de janvier 2016.
 
 ## Compétences
 
