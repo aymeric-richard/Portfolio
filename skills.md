@@ -17,7 +17,7 @@ layout: default
 
 [GNU / Linux]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/linux)
 
-[Autres Compétences]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/minorskills)
+<!-- [Autres Compétences]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/minorskills) -->
 <!-- Ici, mettre un lien avec une ancre par skill minor -->
 
 ## Compétences Transverses

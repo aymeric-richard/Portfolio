@@ -4,7 +4,7 @@ layout: default
 
 # ASP.NET MVC
 
-## La référence pour le web avec C#
+## La référence pour le web avec C# 
 
 ASP.NET est un framework qui permet d'écrire des sites webs dynamiques avec le langage C#. Etant mon [langage de prédilection]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/csharpdotnet), c'est la solution que j'aime utiliser pour réaliser des applications web conséquentes. Grâce à l'architecture MVC intrinsèque, on a un contrôle sur l'ensemble des parties du programme, front et back.
 
@@ -17,7 +17,7 @@ J'ai aussi travaillé sur ASP5 avec .NET Core, ou du moins avec DNX qui l'a pré
 
 Je connais beaucoup de composants ASP mais j'aimerai être capable de mener un projet de A à Z, avec les problématiques inhérantes aux aspects de sécurité, d'accès aux APIs, l'interfaçage avec le front, le tout avec des choix d'architectures et de composants les plus adéquats.
 
-My goal is to improve my skills a lot on this technology during the year.
+Mon objectif est de monter significativement en compétence sur cette technologie durant l'année.
 
 ## Réalisations
 
