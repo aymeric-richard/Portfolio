@@ -29,3 +29,5 @@ layout: default
 [Humour]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/humor)
 
 [Multipotentialité]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/multipotentialite)
+
+[Persévérance]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/perseverance)

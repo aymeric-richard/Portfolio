@@ -3,8 +3,6 @@ layout: default
 ---
 # Réalisations
 
-## Réalisations Principales
-
 [Création d'un jeu vidéo 3D sur Android : Epic Spirit]({{ site.realizationsLocation | absolute_url }}/epicspirit)
 
 [CIL Cowding, interpréteur de code IL éducatif]({{ site.realizationsLocation | absolute_url }}/cilcowding)
@@ -15,10 +13,6 @@ layout: default
 
 [Organisation d'une conférence Atelier avec l'équipe Improv'IT]({{ site.realizationsLocation | absolute_url }}/improvit)
 
-* * *
-
-## Réalisations Secondaires
-
 [Ecriture de ce Portfolio]({{ site.realizationsLocation | absolute_url }}/thisportfolio)
 
-[Dispenser un cours de hardware]({{ site.realizationsLocation | absolute_url }}/hardaware)
+<!-- [Dispenser un cours de hardware]({{ site.realizationsLocation | absolute_url }}/hardaware) -->
