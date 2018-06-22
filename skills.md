@@ -31,3 +31,6 @@ layout: default
 [Multipotentialité]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/multipotentialite)
 
 [Persévérance]({{ site.skillsLocation | append: site.humanSkillsLocation |  absolute_url }}/perseverance)
+
+
+## Comparaison des niveaux de compétences
