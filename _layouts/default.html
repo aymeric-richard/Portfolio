@@ -29,14 +29,18 @@
       {% else %}
       <a href={{ "/realizations" | absolute_url }} class="btn">Réalisations</a>
       {% endif %}
-      {% if page.url == '/aboutme.html' %}         
+      {% if page.url == '/experiences.html' %}
+      <span class="btn">Expériences</span>
+      {% else %}
+      <a href="{{ "/experiences" | absolute_url }}" class="btn">Expériences</a>
+      {% endif %}
+      {% if page.url == '/aboutme.html' %}
       <span class="btn">A propos de moi</span>
       {% else %}
       <a href={{ "/aboutme" | absolute_url }} class="btn">A propos de moi</a>
       {% endif %}
       <a href={{ "/documents/cv_Aymeric_Richard.pdf" | absolute_url }} target="_blank" class="btn">Télécharger un CV</a>
-      <a href="{{ site.github.repository_url }}" class="btn btn-github">
-        <span class="icon"></span>Voir sur GitHub</a>
+     
     </div>
   </header>
   <div class="container">

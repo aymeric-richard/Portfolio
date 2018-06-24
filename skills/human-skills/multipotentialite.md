@@ -13,21 +13,21 @@ Ce sentiment de détresse que je ressens quand on veut me mettre dans une case e
 
 ### Synthèse des idées et capacité à inventer de nouveaux métiers
 
-Aujourd'hui tellement de concepts ont déjà été vu et revus, l'**originalité** est un atout qui fait ses preuves dans la plupart des situations. Même si je suis encore jeune et que je n'ai pas concrètement tiré partit de cela, ma façon de penser fait émerger de mes projets des idées qui n'auraient jamais vu le jour sans ma présence.
+Aujourd'hui tellement de concepts ont déjà été vus et revus, l'**originalité** est un atout qui fait ses preuves dans la plupart des situations. Même si je suis encore jeune et que je n'ai pas concrètement tiré partit de cela, ma façon de penser fait émerger de mes projets des idées qui n'auraient jamais vu le jour sans ma présence.
 
 ### Apprentissage rapide
 
-Je ne suis pas de facto le plus rapide pour apprendre des nouveaux concepts. Cela étant, c'est avec un intérêt extrêmement fort et une grande passion que je me plait à décortiquer au maximum ce que j'ai sous la main. Je sais maintenant apprendre, je me rends compte que aucun savoir n'est inaccessible car il suffit de me documenter et, à force, je sais bien le faire.
+Je ne suis pas de facto le plus rapide pour apprendre des nouveaux concepts. Cela étant, c'est avec un intérêt extrêmement fort et une grande passion que je me plaît à décortiquer au maximum ce que j'ai sous la main. Je sais maintenant apprendre, je me rends compte que aucun savoir n'est inaccessible car il suffit de me documenter et, à force, je sais bien le faire.
 
 ### Adaptabilité et multi-casquettes
 
-Lié à mon excellent relationnel, cette compétence fait que je suis tout indiqué pour jouer différents rôles au sein d'un même projet. Je répond avec plaisir aux questions de mes collaborateurs et je me plait à aider ces personnes pour de nombreux problèmes techniques (ou non) en tout genre.
+Lié à mon excellent relationnel, cette compétence fait que je suis tout indiqué pour jouer différents rôles au sein d'un même projet. Je répond avec plaisir aux questions de mes collaborateurs et je me plaît à aider ces personnes pour de nombreux problèmes techniques (ou non) en tout genre.
 Dans ce cas, cette compétence est étroitement liée à [la créativité]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/creativity).
 
-## Niveau de maitrise et évolution
+## Niveau de maîtrise et évolution
 
-Je n'en suis qu'aux balbutiements de cette découverte mais cela vie en moi depuis toujours. Je vais maintenant pouvoir laisser ma multipotentialité s'exprimer clairement et faire déchainer mes passions.
+Je n'en suis qu'aux balbutiements de cette découverte mais cela vie en moi depuis toujours. Je vais maintenant pouvoir laisser ma multipotentialité s'exprimer clairement et faire déchaîner mes passions.
 
 ## Réalisations
 
-[Tous les projets]({{ site.realizationsLocation | absolute_url }})
+* [Tous les projets]({{ site.realizationsLocation | absolute_url }})

@@ -8,7 +8,7 @@ layout: default
 
 [<img src="{{ site.imagesLocation | absolute_url}}/screenshot_cilcowding_mini.png" class="realization-mini border"/>]({{ site.imagesLocation | absolute_url}}/screenshot_cilcowding.png)
 
-Dans le cadre de ma formation à IN'TECH, nous avons décidé avec mon groupe de projet de consolider notre compréhension du fonctionnement de la chaine de compilation d'un programme. C'est ainsi que nous avons créé de toute pièces CIL Cowding, un projet dont la brique principale est le développement d'un interpréteur de bytecode <abbr title="Intermediate Langage">IL</abbr>.
+Dans le cadre de ma formation à IN'TECH, nous avons décidé avec mon groupe de projet de consolider notre compréhension du fonctionnement de la chaîne de compilation d'un programme. C'est ainsi que nous avons créé de toute pièces CIL Cowding, un projet dont la brique principale est le développement d'un interpréteur de bytecode <abbr title="Intermediate Langage">IL</abbr>.
 
 ## Un interpréteur de langage IL
 
@@ -44,7 +44,7 @@ function int fact(int nb) {
 
 ### Architecture
 
-La partie majeure du projet porte sur l'architecture de l'interpréteur, qui comprends des éléments clés organisés par un engine, qui va construire le programme à partir du code source écrit par l'utilisateur.
+La partie majeure du projet porte sur l'architecture de l'interpréteur, qui comprend des éléments clés organisés par un engine, qui va construire le programme à partir du code source écrit par l'utilisateur.
 Ces éléments sont composés d'un tokenizer et d'un analyzer dont la fonction est de découper et trier le code, pour ensuite passer la main à la pré-exécution et la construction d'un <abbr title="Abstract Syntax Tree">AST</abbr>. Cet AST sera capable d'exécuter les lignes de code une par une.
 
 Synthétiquement, CIL'Cowding dispose des fonctionnalités suivantes :

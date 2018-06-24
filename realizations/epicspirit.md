@@ -10,7 +10,7 @@ layout: default
 Il s'agit d'un secteur en pleine expansion et extrêmement dynamique. L'équipe Epic Spirit souhaite offrir sa pierre à l'édifice en élaborant un "Action Role Playing Game" (A-RPG), genre particulièrement apprécié chez la communauté des joueurs.
 
 J'ai mené ce projet avec un autre développeur (Kévin Roussel) et un graphiste (Maxime Leclerc), dans le cadre de ma formation à IN'TECH.
-Notre mission est de créer un jeu vidéo et de le rendre accessible au grand public. Ce jeu est un A-RPG où le joueur incarne Spi, notre héros, et doit sauver le monde infesté de créatures malfaisantes : les Nelys. Il est disponible pour les smartphones Android. Epic Spirit est un jeu où le protagoniste évolue dans un univers en 3 dimensions. Spi a la capacité de se déplacer et d'attaquer les méchants Nelys grâce à son arme et ses capacités.
+Notre mission était de créer un jeu vidéo et de le rendre accessible au grand public. Ce jeu est un A-RPG où le joueur incarne Spi, notre héros, et doit sauver le monde infesté de créatures malfaisantes : les Nelys. Il est disponible pour les smartphones Android. Epic Spirit est un jeu où le protagoniste évolue dans un univers en 3 dimensions. Spi a la capacité de se déplacer et d'attaquer les méchants Nelys grâce à son arme et ses capacités.
 
 ## Implémentation
 
@@ -31,7 +31,7 @@ Aussi, nous avons collaboré avec un non technique. Maxime, qui a couvert la qua
 <img src="{{ site.imagesLocation | absolute_url}}/es/SpiLogo.png" class="realization-mini"/>
 
 Nous avons mené des actions de communication, lors de la mise en ligne du jeu sur le Play Store, à travers plusieurs plateformes. Un teasing sur Facebook a été débuté avant même la sortie du jeu. A part cela, nous avons promu notre jeu sur des forums de jeux vidéos et de développement, en anglais et en français (le jeu étant lui même en anglais). Nous avons aussi participé au [salon SCE 5.0](https://www.intechinfo.fr/projects/sce-5-0/) et été [interviewé par l'équipe de communication de IN'TECH](https://www.intechinfo.fr/jeu-video-intech-epic-spirit/).
-Nous avons aboutit à plus de 200 téléchargements !
+Nous avons abouti à plus de 200 téléchargements !
 
 Aujourd'hui encore, taper Epic Spirit sur Google montre l'impact de cette communication, je suis d'ailleurs très fier d'avoir trouvé ce magnifique nom de jeu avec mes partenaires.
 

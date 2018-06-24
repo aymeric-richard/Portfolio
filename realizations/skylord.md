@@ -20,7 +20,7 @@ Projet visant à démontrer la faisabilité de la mise en production d'un progra
 
 ### Une technologie en construction
 
-Asp VNext et DNX sont des technologies en beta lors du développement du projet. Chaque semaine a apporté son lot de nouveautés, de régressions et de breaking changes. Bien entendu les tutoriels pour utiliser la technologie ne se bousculaient pas, et les personnes compétentes sur le sujet pour répondre à nos questions non plus.
+Asp VNext et DNX sont des technologies en bêta lors du développement du projet. Chaque semaine a apporté son lot de nouveautés, de régressions et de breaking changes. Bien entendu les tutoriels pour utiliser la technologie ne se bousculaient pas, et les personnes compétentes sur le sujet pour répondre à nos questions non plus.
 
 ### Interaction avec Microsoft
 
