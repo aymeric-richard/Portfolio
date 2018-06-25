@@ -28,7 +28,9 @@ Comme expliqué juste au dessus, la technologie était en cours de développemen
 
 ### Une démarche professionnelle
 
-CI, Agile
+Nous avons mis en place plusieurs [méthodes Agiles]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/agility) Scrum pour tenter une nouvelle approche. Nous étions 6 développeurs, tous partants pour se lancer dans cette aventure. Nous avons entre autre mis en pratique des sprints, des daily Scrum et le product backlog.
+
+Aussi, dans un contexte encore plus professionnel, nous avons orchestré une chaîne d'intégration continue (CI) complète. J'ai majoritairement réalisé cette partie. Nous avions automatisé les builds selon des règles précises en suivant [Semver](https://semver.org/) sur les tags de notre repository Git, le tout passé à la moulinette par les tests unitaires. Tout a été construit à la main, en utilisant [CodeCake](https://github.com/SimpleGitVersion/CodeCake), un outil équivalent à Cake (langage C) pour le C# et développé par Invéniétis. Cet outil est issue de SimpleGitVersion, un ensemble d'outils que nous avons utilisé pour la CI. J'ai d'ailleurs effectué une [**pull request** qui a été acceptée sur SVG-Net](https://github.com/SimpleGitVersion/SGV-Net/pull/1).
 
 ### Communication
 
@@ -40,20 +42,25 @@ Nous avons mis le site en ligne pour le tester en cas réel et avoir des retours
 >
 > Journal de Rurin - Ouvrier 404 - Chapitre V - Jour 68
 
+L'école elle même a fait de la publicité pour notre jeu. Nous avons eu une cinquantaine de joueurs en quelques jours et je me suis moi même pris au jeu à ma grande surprise. Je suis persuadé que ce jeu pourrait être commercialisé. Il faudrait le reprendre sur une plateforme stable.
+
 ### Récompenses
 
-Grosse équipe, gestion de projet (peut être mettre ça dans démarche pro)
-1ère place au Forum des projets informatiques (PI) de IN'TECH, école supérieure d'informatique du groupe ESIEA, de janvier 2016.
+Ce fut un projet avec une équipe conséquente, 7 personnes tout de même. La gestion de projet a été une problématique que nous avons pris en compte et nous avons su nous dompter en conséquence pour tirer partit des compétences et caprices de chacun.
+Cela nous a valu la **1ère place** au Forum des projets informatiques (PI) de IN'TECH, école supérieure d'informatique du groupe ESIEA, de janvier 2016.
 
 ## Compétences
 
+<img src="{{ site.imagesLocation | absolute_url}}/skylord/sorcier4.gif" class="realization-mini" style="float: right;"/>
 * [C# .NET]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/csharpdotnet)
-* [Intégration continue]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/ci)
 * [Git]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/git)
-* [Méthodes Agiles]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/agility)
-* [Humour]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/humor)
-* [Multipotentialité]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/multipotentialite)
-* [Créativité]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/creativity)
+* [ASP .NET MVC]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/aspnetmvc)
+^
+* [Méthodes Agiles]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/agility)
+* [Humour]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/humor)
+* [Multipotentialité]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/multipotentialite)
+* [Créativité]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/creativity)
+* [Persévérance]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/perseverance)
 
 ## Liens
 

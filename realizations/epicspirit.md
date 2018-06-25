@@ -44,7 +44,12 @@ Aujourd'hui encore, taper Epic Spirit sur Google montre l'impact de cette commun
 * [Unity 3D]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/unity3d)
 * [C# .NET]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/csharpdotnet)
 * [Git]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/git)
-* [Créativité]({{ site.skillsLocation | append: site.technicalSkillsLocation | absolute_url }}/creativity)
+^
+* [Humour]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/humor)
+* [Multipotentialité]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/multipotentialite)
+* [Créativité]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/creativity)
+* [Méthodes Agiles]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/agility)
+* [Persévérance]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/perseverance)
 
 ## Liens
 

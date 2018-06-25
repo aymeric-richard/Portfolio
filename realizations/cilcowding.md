@@ -63,6 +63,10 @@ Comme vu plus haut il s'agit d'un projet d'école, nous l'avons développé dans
 
 * [C# .NET]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/csharpdotnet)
 * [Git]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/git)
+^
+* [Créativité]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/creativity)
+* [Multipotentialité]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/multipotentialite)
+* [Persévérance]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/perseverance)
 
 ## Liens
 
