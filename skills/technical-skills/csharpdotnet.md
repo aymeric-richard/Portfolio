@@ -15,6 +15,8 @@ Je l'utilise au quotidien au travail, principalement avec [ASP.NET MVC]({{ site.
 
 ## Niveau de maîtrise et évolution
 
+<a href="https://www.youracclaim.com/badges/6f670b02-a87b-41ae-a902-7b7b7388777e/public_url"><img src="{{ site.imagesLocation | absolute_url}}/exam-483-programming-in-c.png" class="realization-mini"/></a>
+
 Je suis à l'aise dans ce langage que je connais bien. Je me tiens à jour sur les nouvelles fonctionnalités du C# autant que je peux. Je maîtrise aussi des fonctionnalités avancées. Par exemple je comprends comment les structures et les classes sont stockées en mémoire, comment fonctionne le langage, car j'ai déjà pu l'expérimenter notamment avec [CIL Cowding, interpréteur de code IL éducatif]({{ site.realizationsLocation | absolute_url }}/cilcowding). J'ai aussi travaillé avec des fonctionnalités telles que la programmation parallèle, Linq, la conversion implicite et explicite...
 
 J'aime me documenter, lire des articles de blog, parcourir des ouvrages sur les subtilités du langage et j'essaie de rester à jour sur mes connaissances du langage et du framework.
