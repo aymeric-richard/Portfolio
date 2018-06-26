@@ -97,6 +97,12 @@ p.short-description{
   clear: both;
 }
 
+/* Realisations */
+
+img.realization-main{
+  @include illustration(100px)
+}
+
 /* Global */
 
 a {
