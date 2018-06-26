@@ -22,7 +22,7 @@ Malgré les différentes personnalités de l'équipe, nous avons su travailler e
 
 Improv'IT fut un succès et met en avant notre capacité à nous adapter pour produire un travail non technique pouvant rentrer dans le cadre d'une entreprise. De plus, l'engagement de l'équipe et l'intérêt du sujet a permis de rendre l'évènement payant dont les revenus ont aidé l'organisation et des associations caritatives. Le buffet a marqué plus d'une personne par sa gourmandise et sa préparation maison digne d'un traiteur que je vous invite à découvrir à travers nos photos.
 
-[Retrouvez l'évènement en vidéo](https://www.youtube.com/watch?v=a4y8FpCqJbs)
+<a href="https://www.youtube.com/watch?v=a4y8FpCqJbs" target="_blank">Retrouvez l'évènement en vidéo</a>
 
 ### Retours des participants
 

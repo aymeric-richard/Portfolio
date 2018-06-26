@@ -24,15 +24,22 @@ Asp VNext et DNX sont des technologies en bêta lors du développement du projet
 
 ### Interaction avec Microsoft
 
+<img src="{{ site.imagesLocation | absolute_url}}/skylord/11.jpg" class="realization-mini border" style="float: right;"/>
+<img src="{{ site.imagesLocation | absolute_url}}/skylord/10.jpg" class="realization-mini border"/>
+
 Comme expliqué juste au dessus, la technologie était en cours de développement. Nous avons logiquement rencontré des bugs à l'utilisation. L'interlocuteur privilégié est parfois directement le développeur de l'outil, nous avons donc contacté Microsoft lors de certains problèmes rencontrés. Il s'avère que nous avons pu en profiter pour remonter des bugs à l'équipe en charge du projet, en vue de son amélioration.
 
 ### Une démarche professionnelle
 
+<img src="{{ site.imagesLocation | absolute_url}}/skylord/caserne.png" class="realization-mini"/>
+
 Nous avons mis en place plusieurs [méthodes Agiles]({{ site.skillsLocation | append: site.humanSkillsLocation | absolute_url }}/agility) Scrum pour tenter une nouvelle approche. Nous étions 6 développeurs, tous partants pour se lancer dans cette aventure. Nous avons entre autre mis en pratique des sprints, des daily Scrum et le product backlog.
 
-Aussi, dans un contexte encore plus professionnel, nous avons orchestré une chaîne d'intégration continue (CI) complète. J'ai majoritairement réalisé cette partie. Nous avions automatisé les builds selon des règles précises en suivant [Semver](https://semver.org/) sur les tags de notre repository Git, le tout passé à la moulinette par les tests unitaires. Tout a été construit à la main, en utilisant [CodeCake](https://github.com/SimpleGitVersion/CodeCake), un outil équivalent à Cake (langage C) pour le C# et développé par Invéniétis. Cet outil est issue de SimpleGitVersion, un ensemble d'outils que nous avons utilisé pour la CI. J'ai d'ailleurs effectué une [**pull request** qui a été acceptée sur SVG-Net](https://github.com/SimpleGitVersion/SGV-Net/pull/1).
+Aussi, dans un contexte encore plus professionnel, nous avons orchestré une chaîne d'intégration continue (CI) complète. J'ai majoritairement réalisé cette partie. Nous avions automatisé les builds selon des règles précises en suivant <a href="https://semver.org/" target="_blank">Semver</a> sur les tags de notre repository Git, le tout passé à la moulinette par les tests unitaires. Tout a été construit à la main, en utilisant <a href="https://github.com/SimpleGitVersion/CodeCake" target="_blank">CodeCake</a>, un outil équivalent à Cake (langage C) pour le C# et développé par Invéniétis. Cet outil est issue de SimpleGitVersion, un ensemble d'outils que nous avons utilisé pour la CI. J'ai d'ailleurs effectué une <a href="https://github.com/SimpleGitVersion/SGV-Net/pull/1" target="_blank">**pull request** qui a été acceptée sur SVG-Net</a>.
 
 ### Communication
+
+<img src="{{ site.imagesLocation | absolute_url}}/skylord/ile2b.png" class="realization-mini" style="float: right;"/>
 
 Nous avons mis le site en ligne pour le tester en cas réel et avoir des retours. Pour trouver des joueurs nous avons mené des actions de communications, tels que des posts de teasing sur Facebook :
 
@@ -67,3 +74,8 @@ Cela nous a valu la **1ère place** au Forum des projets informatiques (PI) de I
 * <a href="https://www.facebook.com/skylordgame/" target="_blank" class="fab fa-facebook fa-lg"> Suivre sur Facebook</a>
 * <a href="https://github.com/ITISkyLord/SkyLord/tree/Asp5" target="_blank" class="fab fa-github fa-lg"> Voir sur Github</a>
 * <img src="{{ site.imagesLocation | absolute_url}}/logo_intech.png" style="float: left; margin-right: 5px;"/><a href="https://www.intechinfo.fr/skylord-jeu-video-etudiants-intech/" target="_blank" class="fab fa-lg"> Article dédié sur le site de IN'TECH</a>
+
+## En images
+
+[<img src="{{ site.imagesLocation | absolute_url}}/skylord/01.jpg" class="realization-mini border"/>]({{ site.imagesLocation | absolute_url}}/skylord/01.jpg)
+[<img src="{{ site.imagesLocation | absolute_url}}/skylord/Arbre_de_techno.jpg" class="realization-mini border"/>]({{ site.imagesLocation | absolute_url}}/skylord/Arbre_de_techno.jpg)
