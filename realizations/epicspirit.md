@@ -9,7 +9,7 @@ layout: default
 
 Il s'agit d'un secteur en pleine expansion et extrêmement dynamique. L'équipe Epic Spirit souhaite offrir sa pierre à l'édifice en élaborant un "Action Role Playing Game" (A-RPG), genre particulièrement apprécié chez la communauté des joueurs.
 
-J'ai mené ce projet avec un autre développeur (Kévin Roussel) et un graphiste (Maxime Leclerc), dans le cadre de ma formation à IN'TECH.
+J'ai mené ce projet avec un autre développeur (<a href="https://www.linkedin.com/in/kevinroussel/" target="_blank">Kévin Roussel</a>) et un graphiste (<a href="https://www.linkedin.com/in/maxime-leclerc-969427119/" target="_blank">Maxime Leclerc</a>), dans le cadre de ma formation à IN'TECH.
 Notre mission était de créer un jeu vidéo et de le rendre accessible au grand public. Ce jeu est un A-RPG où le joueur incarne Spi, notre héros, et doit sauver le monde infesté de créatures malfaisantes : les Nelys. Il est disponible pour les smartphones Android. Epic Spirit est un jeu où le protagoniste évolue dans un univers en 3 dimensions. Spi a la capacité de se déplacer et d'attaquer les méchants Nelys grâce à son arme et ses capacités.
 
 ## Implémentation
@@ -24,14 +24,14 @@ Pour créer le jeu nous avons, en plus de la partie développement, décidé de 
 
 Deux développeurs, deux profils opposés. Sans avoir les détails en tête, après avoir comparé nos résultats d'exécutive profiler, Kévin et moi avons pu constater nos différences fondamentales. La **passion** de la programmation (et l'humour tordu) nous a réuni dans ce projet. Malgré nos différences de fonctionnement nous nous sommes très bien entendu et avons pu justement tirer partit de nos points de vue respectifs pour créer une symbiose et un projet unique.
 
-Aussi, nous avons collaboré avec un non technique. Maxime, qui a couvert la quasi-totalité de la modélisation 3D et des interfaces en 2D, évolue dans un monde très différent du notre et n'a aucune connaissance en programmation. Il y a eu un temps d'adaptation évidemment, mais nous avons beaucoup interagit ensemble pour créer le projet qui nous convient à tous.
+Aussi, nous avons collaboré avec un non technique. Maxime, qui a couvert la quasi-totalité de la modélisation 3D et des interfaces en 2D, évolue dans un monde très différent du nôtre et n'a aucune connaissance en programmation. Il y a eu un temps d'adaptation évidemment, mais nous avons beaucoup interagit ensemble pour créer le projet qui nous convient à tous.
 
 ### Au delà du logiciel
 
 <img src="{{ site.imagesLocation | absolute_url}}/es/SpiLogo.png" class="realization-mini"/>
 
 Nous avons mené des actions de communication, lors de la mise en ligne du jeu sur le Play Store, à travers plusieurs plateformes. Un teasing sur Facebook a été débuté avant même la sortie du jeu. A part cela, nous avons promu notre jeu sur des forums de jeux vidéos et de développement, en anglais et en français (le jeu étant lui même en anglais). Nous avons aussi participé au [salon SCE 5.0](https://www.intechinfo.fr/projects/sce-5-0/) et été [interviewé par l'équipe de communication de IN'TECH](https://www.intechinfo.fr/jeu-video-intech-epic-spirit/).
-Nous avons abouti à plus de **200 téléchargements** !
+Nous avons abouti à plus de **300 téléchargements** !
 
 Aujourd'hui encore, taper Epic Spirit sur Google montre l'impact de cette communication, je suis d'ailleurs très fier d'avoir trouvé ce magnifique nom de jeu avec mes partenaires.
 
