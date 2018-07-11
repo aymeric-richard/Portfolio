@@ -196,7 +196,7 @@ Niveau actuel 2018 en blanc, <span style="color: #B5E853">niveau prévu pour 202
 
 <img src="{{ site.imagesLocation | absolute_url}}/icon_asp.jpg" class="icon"/>
 [ASP.NET MVC]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/aspnetmvc)
-<p class="short-description">La référence pour le web avec C\# </p>
+<p class="short-description">La référence pour le web avec C# </p>
 
 <img src="{{ site.imagesLocation | absolute_url}}/icon_git.png" class="icon"/>
 [Git]({{ site.skillsLocation | append: site.technicalSkillsLocation |  absolute_url }}/git)
